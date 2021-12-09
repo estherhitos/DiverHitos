@@ -1,0 +1,1 @@
+/*paguina de codigo de java script*/ 
